@@ -1,4 +1,4 @@
-id,usuario_id,title,date
+id,users_id,title,date
 1,1,Post 1: Esto es malo,2020-06-29
 2,5,Post 2: Esto es malo,2020-06-20
 3,1,Post 3: Esto es excelente,2020-05-30
